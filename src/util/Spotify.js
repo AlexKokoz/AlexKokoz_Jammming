@@ -1,4 +1,4 @@
-const clientId = 'client ID here';
+const clientId = 'e94c300fe0b54cf897364b3c5366f4db';
 const apiUrl = `https://api.spotify.com`;
 const redirectURI = "http://forthejams.surge.sh/";
 const redirectUrl = `https://accounts.spotify.com/authorize?client_id=${clientId}&redirect_uri=${redirectURI}&scope=user-read-private%20playlist-modify-public&response_type=token&state=123`;
